@@ -30,7 +30,7 @@ Conceptual framework is the cornerstone of a research project. This thesis makes
 <br/>
 <br/>
 <p align="left">
-<img src="https://github.com/ManoshaSumathiratna/Images/blob/main/Conceptual%20Framwork.jpg" height="70%" width="60%"/>
+<img src="https://github.com/ManoshaSumathiratna/RooftopSolarPurchaseIntention/blob/main/Images/Conceptual%20Framwork.jpg" height="70%" width="60%"/>
 
 <b> Figure 1: Conceptual Framework (Developed by the author)</b>  
 <br/>
@@ -50,7 +50,7 @@ Confirmatory Factor Analysis (CFA) was computed for both samples separately usin
 
 <br/>
 <p align="left">
-<img src="https://github.com/ManoshaSumathiratna/Images/blob/main/Table%204.1.png" height="70%" width="60%"/> 
+<img src="https://github.com/ManoshaSumathiratna/RooftopSolarPurchaseIntention/blob/main/Images/Table%204.1.png" height="70%" width="60%"/> 
 
 <br/>
 <h3> Structural Equation Model (SEM)</h3>
@@ -58,14 +58,14 @@ Confirmatory Factor Analysis (CFA) was computed for both samples separately usin
 the structural model assessment involved evaluating the relevance of hypothesized paths. The relationship between the latent variables is represented by the structural models in Figure 2 and Figure 3 for Sri Lanka and UK respectively. 
 <br/>
 <p align="left">
-<img src="https://github.com/ManoshaSumathiratna/Images/blob/main/Figure%2022.png" height="70%" width="60%"/>
+<img src="https://github.com/ManoshaSumathiratna/RooftopSolarPurchaseIntention/blob/main/Images/Figure%2022.png" height="70%" width="60%"/>
 <p align="left">
 <b> Figure 2: Structural Model for Sri Lankan Residents with Mediating Effect</b>  
 <br/>
 <br/>
 <br/>
 <p align="left">
-<img src="https://github.com/ManoshaSumathiratna/Images/blob/main/Figure%2033.png" height="70%" width="60%"/>
+<img src="https://github.com/ManoshaSumathiratna/RooftopSolarPurchaseIntention/blob/main/Images/Figure%2033.png" height="70%" width="60%"/>
 <p align="left">
 <b> Figure 3: Structural Model for UK Residents with Mediating Effect</b>  
 <br/>
@@ -79,7 +79,7 @@ The squared multiple correlations were 0.827 and 0.745 for PI (Purchase Intentio
 Table 4.7 illustrates the direct relationships between the independent and dependent constructs based on the structural model tested for Sri Lanka. It can be concluded that only PBC has a positive significant on PI, while the effects of SN, EE and FC on PI are not significant at 95% level of confidence for Sri Lankan residence. 
 <br/>
 <p align="left">
-<img src="https://github.com/ManoshaSumathiratna/Images/blob/main/Table%204.7.png" height="70%" width="60%"/>
+<img src="https://github.com/ManoshaSumathiratna/RooftopSolarPurchaseIntention/blob/main/Images/Table%204.7.png" height="70%" width="60%"/>
 <br/>
 <br/>
 
@@ -87,7 +87,7 @@ Table 4.7 illustrates the direct relationships between the independent and depen
 As per Table 4.8, FC has a positive significant impact on PI of rooftop solar of UK residents. However, none of the other three constructs showed significant impact on the PI. 
 <br/>
 <p align="left">
-<img src="https://github.com/ManoshaSumathiratna/Images/blob/main/Table%20%204.8.png" height="70%" width="60%"/>
+<img src="https://github.com/ManoshaSumathiratna/RooftopSolarPurchaseIntention/blob/main/Images/Table%20%204.8.png" height="70%" width="60%"/>
 <br/>
 <br/>
 
@@ -102,14 +102,14 @@ To assess the serial mediating effect of PE and AT on the relationship between i
 According Table 4.9, serial mediating effects of PE and AT on the relationship between SN and PI, as well as EE and PI both found to be significant. Hence H5 and H6 hypotheses were supported for Sri Lankan residents.
 <br/>
 <p align="left">
-<img src="https://github.com/ManoshaSumathiratna/Images/blob/main/Table%204.9.png" height="70%" width="60%"/>
+<img src="https://github.com/ManoshaSumathiratna/RooftopSolarPurchaseIntention/blob/main/Images/Table%204.9.png" height="70%" width="60%"/>
 <br/>
 <br/>
 
 <p align="justify">  
 Table 4.10 confirms the significant serial mediating effect of PE and AT on the relationship between SN - PI, and EE - PI. Hence, H5 and H6 hypotheses are accepted for UK residents.
 <p align="left">
-<img src="https://github.com/ManoshaSumathiratna/Images/blob/main/Table%204.10.png" height="70%" width="60%"/>
+<img src="https://github.com/ManoshaSumathiratna/RooftopSolarPurchaseIntention/blob/main/Images/Table%204.10.png" height="70%" width="60%"/>
 <br/>
 <br/>
 
@@ -119,7 +119,7 @@ Table 4.10 confirms the significant serial mediating effect of PE and AT on the 
 The significance of the impacts of income and education on PI towards rooftop solar for Sri Lankan households is shown in Table 4.11. Therefore, neither of the demographic components had a substantial effect on PI. Income and education have little to no impact on PI for UK residents too (Table 4.12).
 <br/>
 <p align="left">
-<img src="https://github.com/ManoshaSumathiratna/Images/blob/main/Table%204.11.png" height="70%" width="60%"/>
+<img src="https://github.com/ManoshaSumathiratna/RooftopSolarPurchaseIntention/blob/main/Images/Table%204.11.png" height="70%" width="60%"/>
 <br/>
 <br/>
 
